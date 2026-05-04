@@ -1,4 +1,4 @@
-# Online Retail Data Analysis
+# Online Retail Sales Analysis  & Customer Insight Using Python
 
 ## Project Overview
 This project focuses on analyzing a real-world e-commerce dataset to uncover meaningful insights about sales performance, customer behavior, and product demand.
